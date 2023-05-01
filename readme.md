@@ -23,7 +23,7 @@ if you want 15 results for backend Role Than you can simply do this command
 
 
 <p>This will execute the <code>index.js</code> file and initiate the job search process. and after some seconds all the required results will be shown and   getting stored in json format with name of search query  </p>
-<p>Thanks For Reading Documention Hope it makes Cleary Understand about the working of the pupetter</p>
+<p>Thanks For Reading Documention hope it will make easily understand about the working of the pupetter</p>
 
 
 
