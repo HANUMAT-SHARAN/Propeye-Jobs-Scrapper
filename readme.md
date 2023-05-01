@@ -16,7 +16,11 @@
 <p>To start the project, run the following command in your terminal</p>
 <code>node index.js software 6</code>
 <p>Above code is dynamic for every search like you want to search for another job role you can simple come to index.js file and run command in terminal for another job role like <code>node index.js frontend 8</code>
-in this above like number 8 reperesents how mutch search results of that fronted job you want if you want 9 then you can simply do <code>node index.js frontend 9</code></p>
+in this above like number 8 reperesents how mutch search results of that fronted job you want if you want 9 then you can simply do <code>node index.js frontend 9</code>
+if you want 15 results for backend Role Than you can simply do this command
+<code>node index.js backend 15</code>
+</p>
 
-<p>This will execute the <code>index.js</code> file and initiate the job search process. and after full seconds all the required results will be shown  getting stored in json format with name </p>
+<p>This will execute the <code>index.js</code> file and initiate the job search process. and after full seconds all the required results will be shown  getting stored in json format with name of search query  </p>
+
 
