@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+//this addData json format function will takes all jobs from response and search job paramater for dynamic files name
 function addDataInJsonFormat(allJobs, searchJob) {
   fs.writeFile(
     `${searchJob}${Math.floor(Math.random() * 975586756)}.json`,
@@ -11,6 +11,7 @@ function addDataInJsonFormat(allJobs, searchJob) {
   );
 }
 
+//this function is used for checking length so that that number of results user wants can only stored in json file
 function checkingLength(allJobs, number) {
   let finalData = [];
   let count = 0;
