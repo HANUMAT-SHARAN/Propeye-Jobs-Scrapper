@@ -49,3 +49,4 @@ const puppeteerDataScrapper = async (searchJob, nofOfJobs) => {
 };
 
 module.exports = { puppeteerDataScrapper };
+

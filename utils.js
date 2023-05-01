@@ -14,6 +14,7 @@ function addDataInJsonFormat(allJobs, searchJob) {
 //this function is used for checking length so that that number of results user wants can only stored in json file
 function checkingLength(allJobs, number) {
   let finalData = [];
+  
   let count = 0;
   while (finalData.length < number) {
     if (allJobs[count] == undefined) {
