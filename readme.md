@@ -21,6 +21,6 @@ if you want 15 results for backend Role Than you can simply do this command
 <code>node index.js backend 15</code>
 </p>
 
-<p>This will execute the <code>index.js</code> file and initiate the job search process. and after full seconds all the required results will be shown  getting stored in json format with name of search query  </p>
+<p>This will execute the <code>index.js</code> file and initiate the job search process. and after some seconds all the required results will be shown and   getting stored in json format with name of search query  </p>
 
 
