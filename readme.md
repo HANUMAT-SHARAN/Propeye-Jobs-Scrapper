@@ -5,7 +5,7 @@
 <h2>Installation</h2>
 </p>
 <p>Once you have Node.js installed, you can clone this repository using the following command:</p>
-<code>git clone https://github.com/HANUMAT-SHARAN/Propeye-Jobs-Scrapper-</code>
+<code>git clone https://github.com/HANUMAT-SHARAN/Propeye-Jobs-Scrapper</code>
 
 <p>Then, navigate to the project directory and install the required dependencies using the following command</p>
 <code>npm install</code>
